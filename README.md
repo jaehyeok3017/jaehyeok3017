@@ -4,4 +4,4 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gghh3017)](https://solved.ac/gghh3017/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={jaehyeok3017}&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=gghh3017&theme=warm)
